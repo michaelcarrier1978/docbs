@@ -9,7 +9,6 @@ import CheckUp from "@/public/check-up.png";
 import CarBattery from "@/public/car-battery.png";
 import Brake from "@/public/brake.png";
 import Oil from "@/public/car-oil.png";
-import Map from "@/public/map.png";
 import ASE from "@/public/ase.svg";
 import Tel from "@/public/telephone.png"
 import Badge from "@/public/badge.png";
@@ -99,7 +98,7 @@ export default function Home() {
             </div>
         </div>
       </section>
-      <section className="bg-gray-100">
+      <section className="bg-gray-200">
         <div className="container mx-auto px-4 py-8">
         <h2 className="text-3xl uppercase font-extrabold">Why Choose Us</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-4">
